@@ -2,7 +2,7 @@
 /*                                          EJERCICIO 1
  *  Ejemplo 1
  *  Usando la API(OpenMP) hacer un programa que realice lo siguiente:
- * 	    -   Crear la Matrix A de 50 columnas x 50 filas (50x50), inicializada con valores aleatorios. [✔]
+ * 	    -   Crear la Matriz A de 50 columnas x 50 filas (50x50), inicializada con valores aleatorios.   [✔]
 */
 
 //  Librerias
@@ -13,8 +13,8 @@
 //  Definiciones
 #define CHUNKSIZE   10
 #define N       10
-#define NRA 5               //  numero de filas en matrix A
-#define NCA 5               //  numero de columnas en matrix A
+#define NRA 5               //  numero de filas en matriz A
+#define NCA 5               //  numero de columnas en matriz A
 
 
 //  Metodo para obtener numeros random
@@ -41,9 +41,9 @@ omp_set_num_threads(2);
     {
         for (j=0; j<NCA; j++)
         {
-            //  Creacion de Matrix A con numeros aleatorios
+            //  Creacion de Matriz A con numeros aleatorios
             mA[i][j]= Random(1,20);
-            //  Impresion de Matrix A
+            //  Impresion de Matriz A
             printf("%6.2f   ", mA[i][j]);
 		}
 		printf("\n");
