@@ -19,15 +19,15 @@
 
 //  Metodo para obtener numeros random
 long Random(long li, long ls)
-{ long n;
+{
+    long n;
     n=li+rand()%(ls-li+1);
-  return n;
+    return n;
 }
 
 //  Ejecucion del programa
 int main (int argc, char *argv[]) {
 
-    int     z=1;
     int     i, j;
     double	mA[NRA][NCA];
 
