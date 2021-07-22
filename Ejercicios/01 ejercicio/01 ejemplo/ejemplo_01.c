@@ -19,9 +19,10 @@
 
 //  Metodo para obtener numeros random
 long Random(long li, long ls)
-{ long n;
+{
+    long n;
     n=li+rand()%(ls-li+1);
-  return n;
+    return n;
 }
 
 //  Ejecucion del programa
