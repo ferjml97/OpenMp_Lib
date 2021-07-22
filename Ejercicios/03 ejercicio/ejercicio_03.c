@@ -1,9 +1,9 @@
 
 /*                                          EJERCICIO 3
  *  Usando la API(OpenMP) hacer un programa que realice lo siguiente:
- * 	    -   Crear la Matrix A de 50 columnas x 50 filas (50x50), inicializada con valores aleatorios.   [✔]
- *      -   Realizar la Transpuesta de la Matrix A.                                                     [✔]
- * 	    -   Obtener la suma de cada renglón de la Matriz Transpuesta de A y guardarlo en un vector.     [✔]
+ * 	    -   Crear la Matriz A de 5 columnas x 5 filas (50x50), inicializada con valores aleatorios.     [✔]
+ *      -   Realizar la Transpuesta de la Matriz A.                                                     [✔]
+ * 	    -   Obtener la suma de cada fila de la Matriz Transpuesta de A y guardarlo en un vector.        [✔]
  * 	    -   Devolver el maximo valor del vector anterior y el renglón.                                  [✔]
 */
 
@@ -15,8 +15,8 @@
 //  Definiciones
 #define CHUNKSIZE   10
 #define N       10
-#define NRA 5               //  numero de filas en matrix A
-#define NCA 5               //  numero de columnas en matrix A
+#define NRA 5               //  numero de filas en matriz A
+#define NCA 5               //  numero de columnas en matriz A
 
 
 //  Metodo para obtener numeros random
@@ -48,16 +48,16 @@ omp_set_num_threads(2);
     {
         for (j=0; j<NCA; j++)
         {
-            //  Creacion de Matrix A con numeros aleatorios
+            //  Creacion de Matriz A con numeros aleatorios
             mA[i][j]= Random(1,20);
-           //  Las transpuesta de la Matrix A
+           //  Las transpuesta de la Matriz A
             mAT[j][i] = mA[i][j];
 		}
 	}
 
-    //  Impresion de Matrix A
+    //  Impresion de Matriz A
 	printf("******************************************************\n");
-	printf(" Matrix A:\n");
+	printf(" Matriz A:\n");
 	for (i=0; i<NRA; i++)
 	{
         for (j=0; j<NCA; j++)
@@ -67,9 +67,9 @@ omp_set_num_threads(2);
         printf("\n");
 	}
 
-	//  Impresion Transpuesta Matrix A
+	//  Impresion Transpuesta Matriz A
     printf("******************************************************\n");
-	printf(" Matrix Transpuesta de A:                     Total\n");
+	printf(" Matriz Transpuesta de A:                     Total\n");
 	for (j=0; j<NRA; j++)
 	{
         for (i=0; i<NCA; i++)
@@ -78,7 +78,7 @@ omp_set_num_threads(2);
             sum = sum + mAT[j][i];  //  Sumatoria
         }
         printf("%6.2f",sum);
-        if(j < NRA) // Mayor renglon
+        if(j < NRA) // Mayor suma por fila
         {
             h[j] = sum;
             if( h[j] > mayor)
