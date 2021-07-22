@@ -1,5 +1,5 @@
 
-/*                                          EJERCICIO 2
+/*                                          EJERCICIO 3
  *  Usando la API(OpenMP) hacer un programa que realice lo siguiente:
  * 	    -   Crear la Matrix A de 50 columnas x 50 filas (50x50), inicializada con valores aleatorios.   [✔]
  *      -   Realizar la Transpuesta de la Matrix A.                                                     [✔]
