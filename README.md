@@ -11,7 +11,7 @@
   - **[OpenMP 📔](#OpenMP_📔)**
   - **[Pre-requisitos 📋](#Pre_requisitos_📋)**
   - **[Instalación 🔧](#Instalación_🔧)**
-  - **[Enlaces de Interés](#enlaces-de-Interés🎁)** 👀
+  - **[Enlaces de Interés](#enlaces-de-Interés)** 👀
 
 ### Descripción 📑
 Este repositorio contiene algunos ejercicios con la librería OpenMP.  
