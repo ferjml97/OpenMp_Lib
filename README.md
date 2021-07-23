@@ -11,7 +11,7 @@
   - **[OpenMP 📔](#OpenMP_📔)**
   - **[Pre-requisitos 📋](#Pre_requisitos_📋)**
   - **[Instalación 🔧](#Instalación_🔧)**
-  - **[Enlaces de Interés](#Enlaces-de-Interés-👀)** 👀
+  - **[Enlaces de Interés](#Enlaces-de-Interés)** 👀
 
 ### Descripción 📑
 Este repositorio contiene algunos ejercicios con la librería OpenMP.  
@@ -50,7 +50,7 @@ Da un ejemplo
   **[`MinGW`]()**  
   **[`Code::Blocks`]()**
   
-### Enlaces de Interés 👀
+### Enlaces de Interés
 - [Wikipedia OpenMP](https://es.wikipedia.org/wiki/OpenMP "Wiki_OpenMP")
 - [Paraleliza tu codigo en C con OpenMP](https://platzi.com/tutoriales/1469-algoritmos/2010-paraleliza-tu-codigo-en-c-con-openmp/ "Paraleliza tu codigo en C con OpenMP")
 - [Wikipedia OpenMP](https://es.wikipedia.org/wiki/OpenMP "Wiki_OpenMP")
