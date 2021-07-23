@@ -11,7 +11,7 @@
   - **[OpenMP 📔](#OpenMP_📔)**
   - **[Pre-requisitos 📋](#Pre_requisitos_📋)**
   - **[Instalación 🔧](#Instalación_🔧)**
-  - **[Enlaces de Interés 👀](#Enlaces-de-Interés_👀)**
+  - **[Enlaces de Interés](#Enlaces-de-Interés)** 👀
 
 ### Descripción 📑
 Este repositorio contiene algunos ejercicios con la librería OpenMP.  
@@ -58,10 +58,15 @@ Da un ejemplo
 <!--
 |[Click here](https://github.com/)|
 |---|
-
-|[Click here](https://github.com/)|[Or here](https://github.com/)|[Or here](https://github.com/)|
+[`Siguiente`](Sesion-01/Readme.md)
+|[Ejercicios](Ejercicios/Readme.md)|[Or here](https://github.com/)|[Or here](https://github.com/)|
 |---|---|---|
 -->
+#
+[Principal](Readme.md)|[Ejercicios](Ejercicios/Readme.md)|
+|---|---|
+
+
 
 ---
-con ❤ **@ferjml97** 😁
+con ❤ **@ferjml97** 🖋 😁
