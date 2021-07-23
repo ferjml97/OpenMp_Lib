@@ -7,11 +7,11 @@
 # OpenMP
 
 ### Indice
-  - **[Descripción](#descripción)** 📑
-  - **[OpenMP 📔](#openMP)**
-  - **[Pre-requisitos 📋](#pre_requisitos)** 
-  - **[Instalación](#instalación)** 💿
-  - **[Enlaces de Interés](#enlaces-de-interés)** 👀
+  - **[Descripción](#descripción-)** 📑
+  - **[OpenMP 📔](#openMP-)**
+  - **[Pre-requisitos 📋](#pre_requisitos-)** 
+  - **[Instalación](#instalación-)** 💿
+  - **[Enlaces de Interés](#enlaces-de-interés-)** 👀
 
 ### Descripción 📑
 Este repositorio contiene algunos ejercicios con la librería OpenMP.  
