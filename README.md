@@ -63,7 +63,7 @@ Da un ejemplo
 |---|---|---|
 -->
 #
-[Principal](Readme.md)|[Ejercicios](Ejercicios/Readme.md)|
+[Principal](Readme.md)|[Ejercicios](Ejercicios)|
 |---|---|
 
 
