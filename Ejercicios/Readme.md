@@ -72,7 +72,7 @@ Da un ejemplo
 -->
 #
 
-[Principal](https://github.com/ferjml97/OpenMp_Lib "Volver al PRINCIPIO")|[]()|[Inicio](Readme.md "Ir ARRIRBA")|[Ejercicio 1](ejercicio_1/Readme.md "Ir a EJERCICIO 1")|
+[Principal](https://github.com/ferjml97/OpenMp_Lib "Volver al PRINCIPIO")|[\|]()|[Inicio](Readme.md "Ir ARRIRBA")|[Ejercicio 1](ejercicio_1/Readme.md "Ir a EJERCICIO 1")|
 |---|---|---|---|
 
 ---
