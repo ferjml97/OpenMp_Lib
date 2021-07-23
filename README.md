@@ -8,11 +8,11 @@
 
 ### Indice
   - **[Descripción 📑](#descripción-)**
-  - **[OpenMP 📔](#openMP-)**
+  - **[OpenMP 📔](#openmp-)**
   - **[Pre-requisitos 📋](#pre-requisitos-)** 
   - **[Instalación](#instalación-)** 💿
-  - **[Enlaces de Interés 👀](#enlaces-de-interés-)**
   - **[Q&A 💬](#qa-)**
+  - **[Enlaces de Interés 👀](#enlaces-de-interés-)**
 
 ### Descripción 📑
 Este repositorio contiene algunos ejercicios con la librería OpenMP.  
@@ -43,14 +43,46 @@ También es un modelo de programación portable y escalable que proporciona a lo
 > 🔘 = ***Opcional***
 
 ### Instalación 💿
-  **[`WINDOWS`]()**  
-  **[`MinGW`]()**  
-  **[`Code::Blocks`]()**
+  🔽 **[`WINDOWS`]()**
+  <ul>
+  <details open>
+  <summary> Link´s </summary>
+    <img align="center" href="https://www.notion.so/ferjml97/Getting-Startedb69250f33d0542229e659a5acc803ef1"
+       src= "https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white">  
+      &nbsp; 
+    <img align="center" 
+       href="https://www.notion.so/ferjml97/Getting-Startedb69250f33d0542229e659a5acc803ef1" 
+       src= "https://img.shields.io/badge/Notion-white?style=plastic&logo=notion&logoColor=black">  
+  </ul>
+  
+  🔽 **[`MinGW`](https://sourceforge.net/projects/mingw/ "Descargar Mingw")**
+  <ul>
+  <details>
+  <summary> Link´s </summary>
+    <img align="center" href="https://www.notion.so/ferjml97/Getting-Startedb69250f33d0542229e659a5acc803ef1"
+       src= "https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white">  
+      &nbsp; 
+    <img align="center" 
+       href="https://www.notion.so/ferjml97/Getting-Startedb69250f33d0542229e659a5acc803ef1" 
+       src= "https://img.shields.io/badge/Notion-white?style=plastic&logo=notion&logoColor=black">  
+  </ul> 
+  
+  🔽 **[`Code::Blocks`](https://sourceforge.net/projects/codeblocks/files/Binaries/20.03/Windows/codeblocks-20.03-setup.exe/download "Descargar CodeBlock")**
+  <ul>
+  <details>
+  <summary> Link´s </summary>
+    <img align="center" href="https://www.notion.so/ferjml97/Getting-Startedb69250f33d0542229e659a5acc803ef1"
+       src= "https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white">  
+      &nbsp; 
+    <img align="center" 
+       href="https://www.notion.so/ferjml97/Getting-Startedb69250f33d0542229e659a5acc803ef1" 
+       src= "https://img.shields.io/badge/Notion-white?style=plastic&logo=notion&logoColor=black">  
+  </ul>
 
 ### Q&A 💬
   <ul>
   <details>
-  <summary> ? / ! </summary>
+  <summary> ❓ / ❗ </summary>
     1._ Se puede usar otro S.O? </br>  
       R= Sí, en este caso se hizo con Windows porque considero que la mayoría lo usa, y así se evita hacer un Dual Boot. </br><br>
     2._ Se pueden usar los ejercicios en otro S.O? </br>
